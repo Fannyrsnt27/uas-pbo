@@ -1,0 +1,8 @@
+com\fany\movierentapp\rent\RentService.class
+com\fany\movierentapp\connection\Conn.class
+com\fany\movierentapp\user\User.class
+com\fany\movierentapp\MovieRentApp.class
+com\fany\movierentapp\movie\Movie.class
+com\fany\movierentapp\rent\Rent.class
+com\fany\movierentapp\movie\MovieService.class
+com\fany\movierentapp\user\LoginService.class
